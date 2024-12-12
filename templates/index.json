@@ -78,34 +78,43 @@
           "settings": {
             "heading": "Cruelty Free",
             "icon": "heart",
-            "row_content": "",
+            "row_content": "<p>Our moisturizer is never tested on animals.</p>",
             "page": ""
           }
         },
         "collapsible_row_YnELDa": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Non-Pore Clogging",
+            "icon": "washing",
+            "row_content": "<p>Our moisturizer wont block your pores. This prevents breakouts and oily skin.</p>",
             "page": ""
           }
         },
         "collapsible_row_VWUWbE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "No  Harsh Preservatives",
+            "icon": "bottle",
+            "row_content": "<p>Only high-quality, healthy preservatives used. No parabens or sulfates used either.</p>",
             "page": ""
           }
         },
         "collapsible_row_VAQf3x": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "11 Simple Ingredients",
+            "icon": "plant",
+            "row_content": "<p>The full formula is just 11 simple ingredients.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gp8Niz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "USA-Made",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our moisturizer is produced in the USA.</p>",
             "page": ""
           }
         }
@@ -114,19 +123,89 @@
         "collapsible_row_Nt87eV",
         "collapsible_row_YnELDa",
         "collapsible_row_VWUWbE",
-        "collapsible_row_VAQf3x"
+        "collapsible_row_VAQf3x",
+        "collapsible_row_gp8Niz"
       ],
       "settings": {
         "caption": "",
-        "heading": "A Step Above",
+        "heading": "<strong>A Step Above</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "scheme-3",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_hkBij6": {
+      "type": "featured-product",
+      "blocks": {
+        "text_wQFtcp": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_VGAGgi": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_hQp7zW": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_9RFhpF": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_LhRBnb": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_W9HMni": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_REy34a": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_wQFtcp",
+        "title_VGAGgi",
+        "price_hQp7zW",
+        "variant_picker_9RFhpF",
+        "quantity_selector_LhRBnb",
+        "buy_buttons_W9HMni",
+        "share_REy34a"
+      ],
+      "settings": {
+        "product": "premium-moisturizer",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -135,6 +214,7 @@
   "order": [
     "image_banner",
     "custom_liquid_fQJJWi",
-    "collapsible_content_dDNHTr"
+    "collapsible_content_dDNHTr",
+    "featured_product_hkBij6"
   ]
 }
