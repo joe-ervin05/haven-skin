@@ -15,7 +15,9 @@
       "type": "header",
       "custom_css": [
         "* {border: none;}",
-        ".header__icon--search {display: none;}"
+        ".header__icon--search {display: none;}",
+        ".icon-account {width: 22px !important; height: 22px !important;}",
+        ".icon-cart {width: 100px !important; height: 100px !important;}"
       ],
       "settings": {
         "logo_position": "middle-center",
