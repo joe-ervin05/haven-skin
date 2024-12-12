@@ -60,13 +60,6 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -75,7 +68,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text"
       ],
       "settings": {
