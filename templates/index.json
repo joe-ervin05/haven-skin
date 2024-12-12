@@ -57,31 +57,84 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "custom_liquid_fQJJWi": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h4 {font-weight: 600; text-align: center; max-width: 600px; margin-left: auto; margin-right: auto; font-size: 18px;}",
+        "h5 {color: #222473; font-weight: 700; text-align: center; font-size: 20px; padding-top: 8px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h4>\"I hated using moisturizers filled with chemicals. The world needed affordable moisturizer that's good for you. So I made it.\"</h4>\n<h5>Haven Lough</h5>",
+        "color_scheme": "scheme-2",
+        "padding_top": 96,
+        "padding_bottom": 96
+      }
+    },
+    "collapsible_content_dDNHTr": {
+      "type": "collapsible-content",
       "blocks": {
-        "text": {
-          "type": "text",
+        "collapsible_row_Nt87eV": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "heading": "Cruelty Free",
+            "icon": "heart",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_YnELDa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_VWUWbE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_VAQf3x": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "text"
+        "collapsible_row_Nt87eV",
+        "collapsible_row_YnELDa",
+        "collapsible_row_VWUWbE",
+        "collapsible_row_VAQf3x"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "caption": "",
+        "heading": "A Step Above",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "image_banner",
-    "rich_text"
+    "custom_liquid_fQJJWi",
+    "collapsible_content_dDNHTr"
   ]
 }
