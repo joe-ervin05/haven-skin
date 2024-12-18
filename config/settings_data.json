@@ -143,15 +143,15 @@
           "background": "#cee8f5",
           "background_gradient": "",
           "text": "#000000",
-          "button": "#8ac8ed",
-          "button_label": "#242833",
+          "button": "#61b2e0",
+          "button_label": "#f8fbfb",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       },
       "scheme-2": {
         "settings": {
-          "background": "#8ac8ed",
+          "background": "#61b2e0",
           "background_gradient": "",
           "text": "#000000",
           "button": "#121212",
