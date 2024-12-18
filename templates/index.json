@@ -144,13 +144,32 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_JDT99G": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/city-skyline-from-across-water.jpg",
+            "heading": "USA-made",
+            "heading_size": "h1",
+            "subheading": "Manufactured in the US.",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_8ATpc8",
         "slide_eJ7BBF",
         "slide_CN3WxQ",
-        "slide_XhmrMm"
+        "slide_XhmrMm",
+        "slide_JDT99G"
       ],
       "settings": {
         "layout": "full_bleed",
