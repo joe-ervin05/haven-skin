@@ -126,15 +126,19 @@
         "padding_bottom": 100
       }
     },
-    "custom_liquid_Wqjxxn": {
+    "custom_liquid_k9AWyG": {
       "type": "custom-liquid",
       "custom_css": [
-        "h3 {text-align: center; width: 100%; font-size: 36px;}",
-        ".testimonial-container {padding-top: 40px; padding-left: 16px; padding-right: 16px; max-width: 64rem; width: full; margin-left: auto; margin-right: auto; display: flex; justify-content: space-around; align-items: center;}",
-        ".video-placeholder {width: 300px; height: 400px; background-color: #000; border-radius: 6px;}"
+        "h3 {text-align: center; font-size: 31.5px; font-weight: 400;}",
+        "h4 {font-size: 28px;}",
+        ".video-img {background-color: #000; border-radius: 12px;}",
+        ".testimonials {display: flex; flex-direction: column; gap: 100px;}",
+        ".testimonial-container {max-width: 80rem; margin-left: auto; margin-right: auto; display: flex; justify-content: center; gap: 48px; padding-top: 40px; align-items: start;}",
+        ".quote {font-size: 40px; font-weight: 800;}",
+        ".testimonial-text {padding-bottom: 12px; font-size: 18px; max-width: 300px;}"
       ],
       "settings": {
-        "custom_liquid": "<h3>Customers</h3>\n<div class=\"testimonial-container\">\n<div class=\"video-placeholder\"></div>\n<h3>Talan Jase</h3>\n<div>\n</div>\n</div",
+        "custom_liquid": "<h3>Success Stories</h3>\n<div class=\"testimonials\">\n<div class=\"testimonial-container\">\n<img src=\"img_girl.jpg\"\nclass=\"video-img\" alt=\"Girl in a jacket\" width=\"300\" height=\"400\">\n<div>\n<p class=\"quote\">\"</p>\n<p class=\"testimonial-text\">\nLorem ipsum odor amet, consectetuer adipiscing elit. Potenti tortor ornare quam condimentum congue. Luctus integer leo ultrices phasellus hendrerit fames.\n</p>\n<h4>- Talan Jase</h4>\n</div>\n</div>\n<div class=\"testimonial-container\">\n<div>\n<p class=\"quote\">\"</p>\n<p class=\"testimonial-text\">\nLorem ipsum odor amet, consectetuer adipiscing elit. Potenti tortor ornare quam condimentum congue. Luctus integer leo ultrices phasellus hendrerit fames.\n</p>\n<h4>- Talan Jase</h4>\n</div>\n<img src=\"img_girl.jpg\"\nclass=\"video-img\" alt=\"Girl in a jacket\" width=\"300\" height=\"400\">\n</div>\n</div>",
         "color_scheme": "",
         "padding_top": 100,
         "padding_bottom": 100
@@ -275,7 +279,7 @@
     "image_banner",
     "multicolumn_7cEitN",
     "custom_liquid_fQJJWi",
-    "custom_liquid_Wqjxxn",
+    "custom_liquid_k9AWyG",
     "collapsible_content_dyE499",
     "featured_product_hkBij6"
   ]
