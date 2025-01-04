@@ -29,7 +29,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "BUY NOW",
+            "button_label_1": "BUY MINE",
             "button_link_1": "shopify://products/premium-moisturizer",
             "button_style_secondary_1": false,
             "button_label_2": "",
