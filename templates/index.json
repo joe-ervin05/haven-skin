@@ -129,10 +129,12 @@
     "custom_liquid_Wqjxxn": {
       "type": "custom-liquid",
       "custom_css": [
-        "h3 {text-align: center; width: 100%; font-size: 36px;}"
+        "h3 {text-align: center; width: 100%; font-size: 36px;}",
+        ".testimonial-container {padding-top: 40px; padding-left: 16px; padding-right: 16px; max-width: 64rem; width: full; margin-left: auto; margin-right: auto; display: flex; justify-content: space-around; align-items: center;}",
+        ".video-placeholder {width: 300px; height: 400px; background-color: #000; border-radius: 6px;}"
       ],
       "settings": {
-        "custom_liquid": "<h3>Customers</h3>\n<div class=\"video-placeholder></div>",
+        "custom_liquid": "<h3>Customers</h3>\n<div class=\"testimonial-container\">\n<div class=\"video-placeholder\"></div>\n<h3>Talan Jase</h3>\n<div>\n</div>\n</div",
         "color_scheme": "",
         "padding_top": 100,
         "padding_bottom": 100
