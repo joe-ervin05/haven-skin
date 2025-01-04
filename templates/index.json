@@ -150,9 +150,9 @@
         "collapsible_row_aDpYYJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it actually healthy?",
-            "icon": "heart",
-            "row_content": "<p>Yes, our moisturizer uses the healthiest ingredients we can get regardless of cost.</p>",
+            "heading": "Will it actually help my skin?",
+            "icon": "star",
+            "row_content": "<p>Everyone's skin has different needs but our formula is designed to be gentle while still having everything your skin needs to stay hydrated.</p>",
             "page": ""
           }
         },
