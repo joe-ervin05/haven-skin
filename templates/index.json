@@ -29,7 +29,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "BUY MINE",
+            "button_label_1": "Buy Mine",
             "button_link_1": "shopify://products/premium-moisturizer",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -64,10 +64,63 @@
         "h5 {color: #ffffff; font-weight: 700; text-align: center; font-size: 20px; padding-top: 8px;}"
       ],
       "settings": {
-        "custom_liquid": "<h4>\"I hated using moisturizers filled with chemicals. The world needed affordable moisturizer that's good for you. So I made it.\"</h4>\n<h5>Haven Lough</h5>",
+        "custom_liquid": "<h4>\"I hated using moisturizers filled with chemicals. I needed affordable moisturizer that's healthy. So I made it.\"</h4>\n<h5>Haven Lough</h5>",
         "color_scheme": "scheme-2",
         "padding_top": 96,
         "padding_bottom": 96
+      }
+    },
+    "multicolumn_7cEitN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_W7WUBe": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6DXLEp": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6tzcHG": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_W7WUBe",
+        "column_6DXLEp",
+        "column_6tzcHG"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "slideshow_byixhy": {
@@ -255,6 +308,7 @@
   "order": [
     "image_banner",
     "custom_liquid_fQJJWi",
+    "multicolumn_7cEitN",
     "slideshow_byixhy",
     "featured_product_hkBij6"
   ]
