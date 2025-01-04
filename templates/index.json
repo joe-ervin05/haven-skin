@@ -133,7 +133,7 @@
         "h4 {font-size: 28px;}",
         ".video-img {background-color: #000; border-radius: 12px;}",
         ".testimonials {display: flex; flex-direction: column; gap: 100px;}",
-        ".testimonial-container {max-width: 80rem; margin-left: auto; margin-right: auto; display: flex; justify-content: center; gap: 48px; padding-top: 40px; align-items: start;}",
+        ".testimonial-container {max-width: 80rem; margin-left: auto; margin-right: auto; display: flex; justify-content: space-around; gap: 48px; padding-top: 40px; align-items: start;}",
         ".quote {font-size: 40px; font-weight: 800;}",
         ".testimonial-text {padding-bottom: 12px; font-size: 18px; max-width: 300px;}"
       ],
