@@ -150,9 +150,18 @@
         "collapsible_row_aDpYYJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What if it makes my skin worse?",
-            "icon": "fire",
-            "row_content": "<p>If your skin gets worse after using our moisturizer, We'll give you a full refund no questions asked.</p>",
+            "heading": "Is it actually healthy?",
+            "icon": "heart",
+            "row_content": "<p>Yes, our moisturizer uses the healthiest ingredients we can get regardless of cost.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bELpBc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will it make my skin oily?",
+            "icon": "washing",
+            "row_content": "<p>No, our moisturizer is non-pore clogging so it shouldn't cause oily skin.</p>",
             "page": ""
           }
         },
@@ -160,7 +169,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Does it have any harmful ingredients?",
-            "icon": "plant",
+            "icon": "leaf",
             "row_content": "<p>No, our moisturizer is free of parabens, sulfates, and all harsh preservatives.</p>",
             "page": ""
           }
@@ -186,6 +195,7 @@
       },
       "block_order": [
         "collapsible_row_aDpYYJ",
+        "collapsible_row_bELpBc",
         "collapsible_row_LCxCRG",
         "collapsible_row_mNMfqQ",
         "collapsible_row_LmUQbT"
