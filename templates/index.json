@@ -23,7 +23,7 @@
           "type": "text",
           "settings": {
             "text": "Give your skin the moisture it needs without the chemicals it doesn't",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "button": {
