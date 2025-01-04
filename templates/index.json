@@ -66,8 +66,8 @@
       "settings": {
         "custom_liquid": "<h4>\"I hated using moisturizers filled with chemicals. I needed affordable moisturizer that's healthy. So I made it.\"</h4>\n<h5>Haven Lough</h5>",
         "color_scheme": "scheme-2",
-        "padding_top": 96,
-        "padding_bottom": 96
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "multicolumn_7cEitN": {
@@ -76,7 +76,7 @@
         "column_W7WUBe": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -107,7 +107,7 @@
         "column_6tzcHG"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Benefits",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -119,8 +119,8 @@
         "color_scheme": "scheme-5",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "slideshow_byixhy": {
