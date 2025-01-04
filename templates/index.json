@@ -126,6 +126,18 @@
         "padding_bottom": 100
       }
     },
+    "custom_liquid_Wqjxxn": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h3 {text-align: center; width: 100%; font-size: 36px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h3>Customers</h3>\n<div class=\"video-placeholder></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "collapsible_content_dyE499": {
       "type": "collapsible-content",
       "blocks": {
@@ -178,7 +190,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
@@ -243,7 +255,7 @@
       ],
       "settings": {
         "product": "premium-moisturizer",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-5",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -261,6 +273,7 @@
     "image_banner",
     "multicolumn_7cEitN",
     "custom_liquid_fQJJWi",
+    "custom_liquid_Wqjxxn",
     "collapsible_content_dyE499",
     "featured_product_hkBij6"
   ]
