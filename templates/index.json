@@ -129,7 +129,7 @@
     "custom_liquid_k9AWyG": {
       "type": "custom-liquid",
       "custom_css": [
-        "h3 {text-align: center; font-size: 31.5px; font-weight: 400;}",
+        "h3 {text-align: center; font-size: 31.5px; font-weight: 400; padding-bottom: 40px;}",
         "h4 {font-size: 28px;}",
         ".video-img {background-color: #000; border-radius: 12px;}",
         ".testimonials {display: flex; flex-direction: column; gap: 100px;}",
