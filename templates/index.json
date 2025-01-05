@@ -24,7 +24,7 @@
       ],
       "custom_css": [
         ".rich-text__blocks p {color: white;}",
-        "@media (min-width: 640px) {}"
+        "@media (min-width: 640px) {.rich-text {display: none; }}"
       ],
       "settings": {
         "desktop_content_position": "center",
