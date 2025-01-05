@@ -23,7 +23,8 @@
         "text_W8HNX9"
       ],
       "custom_css": [
-        ".rich-text__blocks p {color: white;}"
+        ".rich-text__blocks p {color: white;}",
+        "@media (min-width: 640px) {}"
       ],
       "settings": {
         "desktop_content_position": "center",
