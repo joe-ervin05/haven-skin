@@ -12,18 +12,18 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Clinically-Tested Premium Moisturizer",
-            "text_style": "subtitle"
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
             "heading": "Do You Want Smooth Skin?",
-            "heading_size": "hxl"
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give your skin the moisture it needs without the chemicals it doesn't",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -39,8 +39,8 @@
         }
       },
       "block_order": [
-        "text",
         "heading",
+        "text",
         "button"
       ],
       "settings": {
