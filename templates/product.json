@@ -88,6 +88,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "klaviyo_reviews_average_rating_AjNccA": {
+          "type": "shopify://apps/klaviyo-reviews/blocks/average-rating/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
         }
       },
       "block_order": [
@@ -102,7 +108,8 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "share"
+        "share",
+        "klaviyo_reviews_average_rating_AjNccA"
       ],
       "settings": {
         "enable_sticky_info": true,
