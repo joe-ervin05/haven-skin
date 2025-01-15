@@ -56,33 +56,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Ingredients",
-            "icon": "clipboard",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -105,9 +78,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
         "share",
         "klaviyo_reviews_average_rating_AjNccA"
       ],
@@ -203,15 +173,6 @@
     },
     "17368960968d049f64": {
       "type": "apps",
-      "blocks": {
-        "klaviyo_reviews_product_reviews_zAdR8c": {
-          "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "klaviyo_reviews_product_reviews_zAdR8c"
-      ],
       "settings": {
         "include_margins": true
       }
